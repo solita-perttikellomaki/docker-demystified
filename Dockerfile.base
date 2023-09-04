@@ -1,0 +1,3 @@
+FROM scratch
+COPY lib /lib
+COPY lib64 /lib64
